@@ -9,21 +9,26 @@
       "title":"Wild Rice Locations Identification Sep 2024 - Ongoing",
       "tag":"Research Project | Flutter | Firebase | Google Map API",
       "details":"Developing a app to map and identify habitats of wild rice relatives in SriLanka.",
+      "url": ""
     },
     {
       "title":"Sri Lanka Location Details - 2024",
       "tag":"Node.js | TypeScript | Express | Docker | API | OpenAPI | Postman",
       "details":"Retrieve & Search cities by district, province, postal-code, GPS with Easy-to-use REST API",
+      "url": ""
     },
     {
       "title":"Global Azure Offcial Website - 2025",
       "tag":"React | Azure | Power Automations",
       "details":"Dynamically updating event speakers and schedule with an attendee confirmation portal.",
+      "url": ""
     },
     {
-      "title":"",
-      "tag":"",
-      "details":"",
+      "title":"Send to Firebase - 2023",
+      "tag":"Node.js | TypeScript | Firebase | VSCode",
+      "details":"VSCode Extention for tracking project details with Firebase Realtime Database.2,300+ installs.",
+      
+      "url": ""
     },
     {
       "title":"",
