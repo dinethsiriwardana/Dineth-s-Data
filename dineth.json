@@ -4,6 +4,47 @@
   "tagline2": "A Developer",
   "description": "I'm a Mobile Developer at Prodigit, specializing in Flutter. My passion lies in mobile development, where I continuously refine my skills to build seamless and efficient applications.",
   "roles": "Gold MLSA | Postman Student Leader | Facilitator | Mentor",
+  "experiance" : [
+    {
+      "title" : "Mobile Developer | Flutter",
+      "date":"Jan - 2025 | Mar 2025",
+      "details":"Android & IOS | Debugging | BLoC | Play Store"
+    },
+    {
+      "title" : "Software Developer | Freelance",
+      "date": "Jan 2020",
+      "details":"Web, Mobile and Desktop Application Development"
+    },
+  ],
+
+  "education" : [
+    {
+      "title" : "Bachelor's degree",
+      "subject":"Information & Communication Technology (Hons)",
+      "location":"University of Ruhuna"
+    },
+    {
+      "title" : "Course",
+      "subject":"Flutter And Firebase",
+      "location":"Udemy"
+    },
+    {
+      "title" : "Cretification",
+      "subject":"Data Modeling for MongoDB",
+      "location":"MongoDB"
+    },
+    {
+      "title" : "Cretification",
+      "subject":"Docker & Kubernetes - Level 1",
+      "location":"KodeKloud Engineer"
+    },
+    {
+      "title" : "Course",
+      "subject":"Postman API Fundamentals & Tester",
+      "location":"Postman"
+    },       
+  ]
+  
   "skills": [
     [
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg",
