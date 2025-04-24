@@ -4,11 +4,39 @@
   "tagline2": "A Developer",
   "description": "I'm a Mobile Developer at Prodigit, specializing in Flutter. My passion lies in mobile development, where I continuously refine my skills to build seamless and efficient applications.",
   "roles": "Gold MLSA | Postman Student Leader | Facilitator | Mentor",
+  "project" : [
+    {
+      "title":"Wild Rice Locations Identification Sep 2024 - Ongoing",
+      "tag":"Research Project | Flutter | Firebase | Google Map API",
+      "details":"Developing a app to map and identify habitats of wild rice relatives in SriLanka.",
+    },
+    {
+      "title":"Sri Lanka Location Details - 2024",
+      "tag":"Node.js | TypeScript | Express | Docker | API | OpenAPI | Postman",
+      "details":"Retrieve & Search cities by district, province, postal-code, GPS with Easy-to-use REST API",
+    },
+    {
+      "title":"Global Azure Offcial Website - 2025",
+      "tag":"React | Azure | Power Automations",
+      "details":"Dynamically updating event speakers and schedule with an attendee confirmation portal.",
+    },
+    {
+      "title":"",
+      "tag":"",
+      "details":"",
+    },
+    {
+      "title":"",
+      "tag":"",
+      "details":"",
+    },
+  ]
   "experiance" : [
     {
       "title" : "Mobile Developer | Flutter",
       "date":"Jan - 2025 | Mar 2025",
-      "details":"Android & IOS | Debugging | BLoC | Play Store"
+      "details":"Prodigit.in",
+      "url": ""
     },
     {
       "title" : "Software Developer | Freelance",
@@ -21,27 +49,32 @@
     {
       "title" : "Bachelor's degree",
       "subject":"Information & Communication Technology (Hons)",
-      "location":"University of Ruhuna"
+      "location":"University of Ruhuna",
+      "url": ""
     },
     {
       "title" : "Course",
       "subject":"Flutter And Firebase",
-      "location":"Udemy"
+      "location":"Udemy",
+      "url": ""
     },
     {
       "title" : "Cretification",
       "subject":"Data Modeling for MongoDB",
-      "location":"MongoDB"
+      "location":"MongoDB",
+      "url": ""
     },
     {
       "title" : "Cretification",
       "subject":"Docker & Kubernetes - Level 1",
-      "location":"KodeKloud Engineer"
+      "location":"KodeKloud Engineer",
+      "url": ""
     },
     {
       "title" : "Course",
       "subject":"Postman API Fundamentals & Tester",
-      "location":"Postman"
+      "location":"Postman",
+      "url": ""
     },       
   ]
   
