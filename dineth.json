@@ -47,7 +47,7 @@
       "title" : "Software Developer | Freelance",
       "date": "Jan 2020",
       "details":"Web, Mobile and Desktop Application Development"
-    },
+    }
   ],
 
   "education" : [
@@ -80,7 +80,7 @@
       "subject":"Postman API Fundamentals & Tester",
       "location":"Postman",
       "url": ""
-    },       
+    }      
   ]
   
   "skills": [
