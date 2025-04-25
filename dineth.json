@@ -4,85 +4,84 @@
   "tagline2": "A Developer",
   "description": "I'm a Mobile Developer at Prodigit, specializing in Flutter. My passion lies in mobile development, where I continuously refine my skills to build seamless and efficient applications.",
   "roles": "Gold MLSA | Postman Student Leader | Facilitator | Mentor",
-  "project" : [
+  "project": [
     {
-      "title":"Wild Rice Locations Identification Sep 2024 - Ongoing",
-      "tag":"Research Project | Flutter | Firebase | Google Map API",
-      "details":"Developing a app to map and identify habitats of wild rice relatives in SriLanka.",
+      "title": "Wild Rice Locations Identification Sep 2024 - Ongoing",
+      "tag": "Research Project | Flutter | Firebase | Google Map API",
+      "details": "Developing a app to map and identify habitats of wild rice relatives in SriLanka.",
       "url": ""
     },
     {
-      "title":"Sri Lanka Location Details - 2024",
-      "tag":"Node.js | TypeScript | Express | Docker | API | OpenAPI | Postman",
-      "details":"Retrieve & Search cities by district, province, postal-code, GPS with Easy-to-use REST API",
+      "title": "Sri Lanka Location Details - 2024",
+      "tag": "Node.js | TypeScript | Express | Docker | API | OpenAPI | Postman",
+      "details": "Retrieve & Search cities by district, province, postal-code, GPS with Easy-to-use REST API",
       "url": ""
     },
     {
-      "title":"Global Azure Offcial Website - 2025",
-      "tag":"React | Azure | Power Automations",
-      "details":"Dynamically updating event speakers and schedule with an attendee confirmation portal.",
+      "title": "Global Azure Offcial Website - 2025",
+      "tag": "React | Azure | Power Automations",
+      "details": "Dynamically updating event speakers and schedule with an attendee confirmation portal.",
       "url": ""
     },
     {
-      "title":"Send to Firebase - 2023",
-      "tag":"Node.js | TypeScript | Firebase | VSCode",
-      "details":"VSCode Extention for tracking project details with Firebase Realtime Database.2,300+ installs.",
-      
+      "title": "Send to Firebase - 2023",
+      "tag": "Node.js | TypeScript | Firebase | VSCode",
+      "details": "VSCode Extention for tracking project details with Firebase Realtime Database.2,300+ installs.",
+
       "url": ""
     },
     {
-      "title":"",
-      "tag":"",
-      "details":"",
+      "title": "",
+      "tag": "",
+      "details": ""
     }
   ],
-  "experiance" : [
+  "experiance": [
     {
-      "title" : "Mobile Developer | Flutter",
-      "date":"Jan - 2025 | Mar 2025",
-      "details":"Prodigit.in",
+      "title": "Mobile Developer | Flutter",
+      "date": "Jan - 2025 | Mar 2025",
+      "details": "Prodigit.in",
       "url": ""
     },
     {
-      "title" : "Software Developer | Freelance",
+      "title": "Software Developer | Freelance",
       "date": "Jan 2020",
-      "details":"Web, Mobile and Desktop Application Development"
+      "details": "Web, Mobile and Desktop Application Development"
     }
   ],
 
-  "education" : [
+  "education": [
     {
-      "title" : "Bachelor's degree",
-      "subject":"Information & Communication Technology (Hons)",
-      "location":"University of Ruhuna",
+      "title": "Bachelor's degree",
+      "subject": "Information & Communication Technology (Hons)",
+      "location": "University of Ruhuna",
       "url": ""
     },
     {
-      "title" : "Course",
-      "subject":"Flutter And Firebase",
-      "location":"Udemy",
+      "title": "Course",
+      "subject": "Flutter And Firebase",
+      "location": "Udemy",
       "url": ""
     },
     {
-      "title" : "Cretification",
-      "subject":"Data Modeling for MongoDB",
-      "location":"MongoDB",
+      "title": "Cretification",
+      "subject": "Data Modeling for MongoDB",
+      "location": "MongoDB",
       "url": ""
     },
     {
-      "title" : "Cretification",
-      "subject":"Docker & Kubernetes - Level 1",
-      "location":"KodeKloud Engineer",
+      "title": "Cretification",
+      "subject": "Docker & Kubernetes - Level 1",
+      "location": "KodeKloud Engineer",
       "url": ""
     },
     {
-      "title" : "Course",
-      "subject":"Postman API Fundamentals & Tester",
-      "location":"Postman",
+      "title": "Course",
+      "subject": "Postman API Fundamentals & Tester",
+      "location": "Postman",
       "url": ""
-    }      
-  ]
-  
+    }
+  ],
   "skills": [
     [
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg",
