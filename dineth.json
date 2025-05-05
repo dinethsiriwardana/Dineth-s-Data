@@ -20,7 +20,7 @@
     },
     {
       "media": "Facebook",
-      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-plain.svg",
       "url": "https://facebook.com/dinethSi",
       "methode" : "remote"
 
