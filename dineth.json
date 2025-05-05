@@ -4,6 +4,41 @@
   "tagline2": "A Developer",
   "description": "I'm a Mobile Developer at Prodigit, specializing in Flutter. My passion lies in mobile development, where I continuously refine my skills to build seamless and efficient applications.",
   "roles": "Gold MLSA | Postman Student Leader | Facilitator | Mentor",
+  "social_media": [
+    {
+      "media": "GitHub",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg",
+      "url": "https://github.com/dinethsiriwardana",
+      "methode" : "remote"
+    },
+    {
+      "media": "LinkedIn",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg",
+      "url": "https://linkedin.com/in/dinethsiriwardana",
+      "methode" : "remote"
+
+    },
+    {
+      "media": "Facebook",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg",
+      "url": "https://facebook.com/dinethSi",
+      "methode" : "remote"
+
+    },
+    {
+      "media": "cv",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg",
+      "url": "https://facebook.com/dinethSi",
+      "methode" : "remote"
+
+    },
+    {
+      "media": "MLSA",
+      "icon": "assets/icon/LevelGold.png",
+      "url": "https://mvp.microsoft.com/en-US/studentambassadors/profile/ee4b937e-1cfa-47e9-962d-c5ecef683b8f",
+      "methode" : "local"
+    }
+  ],
   "project": [
     {
       "title": "Wild Rice Locations Identification Sep 2024 - Ongoing",
@@ -27,7 +62,6 @@
       "title": "Send to Firebase - 2023",
       "tag": "Node.js | TypeScript | Firebase | VSCode",
       "details": "VSCode Extention for tracking project details with Firebase Realtime Database.2,300+ installs.",
-
       "url": ""
     },
     {
